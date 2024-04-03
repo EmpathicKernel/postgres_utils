@@ -1,0 +1,4 @@
+pgpasslib==1.1.0
+pillow==10.2.0
+PyGreSQL==6.0
+PyOpenGL==3.1.7
